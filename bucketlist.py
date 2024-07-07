@@ -1,4 +1,4 @@
- def add(task):
+def add(task):
     n=input("Enter a task :")
     task.append(n)
     return task
